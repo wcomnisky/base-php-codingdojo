@@ -22,3 +22,9 @@ Projeto simples (indepentende de bibliotecas e/ou frameworks), para ser facilmen
 ### Download:
 * Zip: https://github.com/wcomnisky/base-php-codingdojo/zipball/master
 * Tar.gz: https://github.com/wcomnisky/base-php-codingdojo/tarball/master
+
+## E depois de baixar os fontes?
+    cd ./base-php-codingdojo/Tests
+    phpunit
+
+Refatore, e repita o passo anterior...
