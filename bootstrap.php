@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('America/Sao_Paulo');
 
-define('BD', realpath(dirname(__FILE__)));
+define('BD', __DIR__);
 
 error_reporting(-1);
 ini_set('display_errors', 1);
@@ -18,5 +18,5 @@ spl_autoload_register(function($classname) {
     $classname = str_replace("\\", "/", $match[1]) . str_replace(["\\", "_"], "/", $match[2]) . ".php";
     
     echo "\n$classname\n";
-    include_once $classname;	
+    include $classname;	
 });
