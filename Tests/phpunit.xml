@@ -2,13 +2,13 @@
 
 <phpunit bootstrap="../bootstrap.php" colors="true">
     
-    <testsuite name="Battle">
+    <testsuite name="TDD">
         <directory>./library</directory>
     </testsuite>
     
     <filter>
         <whitelist>
-            <directory suffix=".php">../library/Battle</directory>
+            <directory suffix=".php">../library/TDD</directory>
         </whitelist>
     </filter>
         
