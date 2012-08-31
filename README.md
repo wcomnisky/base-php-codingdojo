@@ -17,7 +17,7 @@ Projeto simples (indepentende de bibliotecas e/ou frameworks), para ser facilmen
 ## Baixando os fontes
 
 ### Git
-    git clone http://github.com/wcomnisky/base-php-codingdojo.git ./base-php-codingdojo
+    git clone http://github.com/wcomnisky/base-php-codingdojo.git
     
 ### Download:
 * Zip: https://github.com/wcomnisky/base-php-codingdojo/zipball/master
