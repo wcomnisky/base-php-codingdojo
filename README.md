@@ -1,7 +1,7 @@
 Base PHP Coding Dojo
 ====================
 
-Projeto simples (indepentende de bibliotecas e/ou frameworks), para ser facilmente utilizado em coding dojos de PHP 5.4 (e superiores). Caso disponha apenas do PHP 5.3(.x), utilize o seguinte bootstrap: https://gist.github.com/3082983.
+Projeto simples (independente de bibliotecas e/ou frameworks), para ser facilmente utilizado em coding dojos de PHP 5.4 (e superiores). Caso disponha apenas do PHP 5.3(.x), utilize o seguinte bootstrap: https://gist.github.com/3082983.
 
 ## Requisitos
 * PHP 5.4 ou superior;
