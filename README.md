@@ -1,6 +1,8 @@
 Base PHP Coding Dojo with Vagrant
 =================================
 
+[![Project Status](http://stillmaintained.com/rogeriopradoj/base-php-codingdojo-vagrant.png)](http://stillmaintained.com/rogeriopradoj/base-php-codingdojo-vagrant)
+
 Fork do [wcomnisky](https://github.com/wcomnisky/base-php-codingdojo).
 
 Projeto simples (indepentende de bibliotecas e/ou frameworks), para ser
