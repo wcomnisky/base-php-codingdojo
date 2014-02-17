@@ -28,3 +28,7 @@ Projeto simples (independente de bibliotecas e/ou frameworks), para ser facilmen
     phpunit
 
 Refatore, e repita o passo anterior...
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wcomnisky/base-php-codingdojo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
